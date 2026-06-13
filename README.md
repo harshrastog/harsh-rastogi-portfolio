@@ -42,6 +42,4 @@ I am a B.Tech Computer Science Engineering student (2022–2026) and an AWS Cert
 - LinkedIn: https://linkedin.com/in/harsh-rastogi-5ba853280
 - GitHub: https://github.com/harshrastog
 
-## Live Portfolio
 
-Coming Soon...
